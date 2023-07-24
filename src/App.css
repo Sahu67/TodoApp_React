@@ -193,7 +193,7 @@ nav {
     position: absolute;
     width: 100%;
     top: 330px;
-    padding: 0 30px;
+    padding: 0 20px;
   }
   .tabs {
     position: unset;
@@ -209,6 +209,7 @@ nav {
 
   .main-container {
     width: 100%;
+    padding: 30px 20px;
   }
 
   .todo-list, .nothing {
